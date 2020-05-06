@@ -1,0 +1,22 @@
+{
+  "name": "effector-esm",
+  "version": "1.0.0",
+  "description": "ESM wrapper for effector state manager.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "ejnshtein",
+  "license": "MIT",
+  "typings": "./typings/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejnshtein/effector-esm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ejnshtein/effector-esm/issues"
+  },
+  "homepage": "https://github.com/ejnshtein/effector-esm#readme",
+  "engines": {
+    "node": ">=13.5"
+  }
+}
